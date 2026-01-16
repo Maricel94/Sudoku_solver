@@ -31,11 +31,12 @@
 ✨ Mejoras futuras
 
 🔹 Interfaz más moderna
-Colorear números originales en negro y los del usuario en azul
 
-Animaciones suaves al escribir
+*Colorear números originales en negro y los del usuario en azul
 
-Tema oscuro / claro
+*Animaciones suaves al escribir
+
+*Tema oscuro / claro
 
 🔹 Validación en tiempo real
 
